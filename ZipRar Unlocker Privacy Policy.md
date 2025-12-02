@@ -75,5 +75,5 @@ We may revise this policy as the app evolves. Updates will be posted within the 
 
 If you have any questions or concerns, feel free to reach out:
 
-📧 **Email:** [your-email@example.com]  
-🌐 **App Page:** [https://apkpure.com/your-app-url]  
+📧 **Email:** intellimob.sup@gmail.com  
+🌐 **App Page:** https://apkpure.com/p/com.intellimob.ziprarunlocker  
