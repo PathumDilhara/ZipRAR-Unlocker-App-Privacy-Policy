@@ -53,11 +53,9 @@ We never access photos, contacts, location, or any unrelated data.
 
 ## 4. Third-Party Services
 
-We use the following services:
+We currently do **not use any third-party services** for data storage or app functionality.  
 
-- [**Google Firebase**](https://firebase.google.com/support/privacy)
-
-If any additional services are added in future versions, this policy will be updated accordingly.
+If any third-party services are added in future versions, this policy will be updated accordingly.
 
 ---
 
