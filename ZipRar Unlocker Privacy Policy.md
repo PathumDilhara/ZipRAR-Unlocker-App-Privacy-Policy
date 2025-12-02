@@ -1,7 +1,7 @@
 # 🔐 Privacy Policy for ZipRar Unlocker
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Last Updated Date]
+**Effective Date:** Jan 1, 2026  
+**Last Updated:** Dec 2, 2025
 
 Thank you for using **ZipRar Unlocker**. Your privacy matters to us. This policy explains what data we collect and how we use it.
 
@@ -17,18 +17,20 @@ We collect **minimal data** necessary to improve the app’s functionality and u
 - We do **not upload** or access your ZIP/RAR files or passwords.
 - No personal data is stored or shared from file operations.
 
-### ☁️ Firebase Services
+### ☁️ Backend Services
 
-We use **Google Firebase** for the following purposes:
+We use our **custom backend servers** to provide and manage app functionality, including:
 
-- **Cloud Messaging** – to send update notifications.
-- **Firestore / Feedback** – to receive and store user feedback.
+- **Notifications** – to send updates and announcements to users.
+- **Feedback & Data Storage** – to receive and store user feedback securely.
 
-Firebase may automatically collect:
+Our backend may collect:
 
 - Device info (model, OS version)
 - App version
 - General usage analytics (optional, if enabled)
+
+All collected data is stored securely and **used only for the purposes described above**.
 
 ---
 
